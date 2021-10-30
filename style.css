@@ -1,0 +1,25 @@
+.heading {
+    text-align: left;
+    width: 100%;
+}
+.heading h3 {
+    display: inline;
+}
+.heading button {
+    float: right;
+    border: 1px solid white;
+}
+#start, #status {
+    font-size: 22px;
+}
+.modal-dialog {
+    width: 70%;
+}
+.label1 {
+   font-size: 24px;
+   margin-top: 30px;
+}
+.instructions {
+    font-size: 21px;
+    text-align: left;
+}
